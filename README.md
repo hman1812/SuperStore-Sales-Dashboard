@@ -1,9 +1,5 @@
 # SUPERSTORE SALES DASHBOARD 
 
-<img width="1365" height="784" alt="image" src="https://github.com/user-attachments/assets/eeddd8f2-fc4b-491c-9d3e-b9de00926e85" />
-
-*Caption: Overview of the Superstore Sales Dashboard.*
-
 ## INTRODUCTION
 This report looks at sales data from a superstore in the United States. It shows how products and regions are performing, and gives ideas to help grow the business. We focus on sales, profit, regions, and best-selling products.
 
@@ -22,6 +18,9 @@ The goals of this report are to:
 - Phones and Chairs are the top-selling products, bringing in the most money.
 
 ## INITIAL INSIGHTS
+<img width="1365" height="784" alt="image" src="https://github.com/user-attachments/assets/eeddd8f2-fc4b-491c-9d3e-b9de00926e85" />
+
+*Caption: Overview of the Superstore Sales Dashboard.*
 ### Sales and Profit Growth:
 From 2014 to 2017, the store's sales and profits increased. The biggest jump was from 2015 to 2016, with sales growing by about $138,673 and profit by $20,176.
 
